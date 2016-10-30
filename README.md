@@ -3,7 +3,7 @@ Minimalistic study of building Telegram bots in C#/.Net Core, using Telegram.Bot
 Built in Visual Studio Code on Mac OS X.
 
 The only item not under source control:
-~/.telegram/uselessextras file, containing Telegram bot token, which shouldn't be public, right? Make your own bot/token to play with the code, using @BotFather's /newbot command.
+~/.telegram/uselessextrasbot file, containing Telegram bot token, which shouldn't be public, right? Make your own bot/token to play with the code, using @BotFather's /newbot command.
 
 Opening, building, and debugging in Visual Studio Code:
 - open project folder and proceed!
