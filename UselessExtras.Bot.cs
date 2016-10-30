@@ -49,6 +49,7 @@ namespace UselessExtras
         // an easy way of initiating private chat
         void BotOnInlineQueryReceived(object sender, InlineQueryEventArgs inlineQueryEventArgs)
         {
+            // for now, just a way of creating/switching to private chat
             InlineQueryHandlerForPrivateChat(sender, inlineQueryEventArgs);
         }
         async void InlineQueryHandlerForPrivateChat(object sender, InlineQueryEventArgs inlineQueryEventArgs)
