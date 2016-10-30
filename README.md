@@ -1,5 +1,5 @@
 # UselessExtras.Bot
-Minimalistic study of building <a href="https://core.telegram.org/bots/">Telegram bots</a> in C#/<a href="https://www.microsoft.com/net/core">.NET Core</a>, using <a href="https://github.com/MrRoundRobin/telegram.bot/tree/master/src/Telegram.Bot">Telegram.Bot library by Robin Müller</a>. 
+Minimalistic study of building <a href="https://core.telegram.org/bots/">Telegram bots</a> in C#/<a href="https://www.microsoft.com/net/core">.NET Core</a>, using <a href="https://github.com/MrRoundRobin/telegram.bot/tree/master/src/Telegram.Bot">Telegram.Bot library</a>. 
 Built in <a href="https://code.visualstudio.com/">Visual Studio Code</a> on Mac OS X.
 
 The only item not under source control:
